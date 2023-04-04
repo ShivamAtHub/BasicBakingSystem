@@ -24,7 +24,8 @@
 
 ## Installation
 - Install XAMPP on your device.
-- Download this project, place the 'BankByShivam' folder in your XAMPP-->htdocs folder
+- Download this project, rename the main folder from `BasicBankingSystem-main` to `BankByShivam`
+- Now place the `BankByShivam` folder in your XAMPP-->htdocs folder
 
 ``````````````
 Example:
