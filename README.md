@@ -50,3 +50,19 @@ http://localhost/BankByShivam/mainpage.php
 - On the Home page you can visit the `Transaction History` to view past transactions.
 
 ## Screenshots
+- Main Page
+![main1.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/c9ff5f66-23e8-4870-a302-1b963b5c0fa7)
+![main2.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/39cb82a6-8c7e-4be9-a5c4-03316d8e772d)
+![main3.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/0341329c-b3e3-47a2-9a9d-af0297734f7a)
+
+- Customer Page
+![customer.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/2a31ac5c-4217-4078-85fe-235689eda632)
+
+- Transaction Page
+![transaction.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/14274c58-7775-477d-8491-df5e7f24eef2)
+
+- On successfull transaction  
+![transaction success.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/5169cbdc-7eaa-41e0-a87f-c98c16376e52)
+
+- Transaction history
+![transaction history.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/7928bdbe-a636-4963-961c-677a051cbc3a)
