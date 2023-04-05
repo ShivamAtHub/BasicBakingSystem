@@ -7,6 +7,7 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [How To Run](#How_To_Run)
+- [Screenshots](#Screenshots)
 
 ## Description
 - This is a Web Development project for The Sparks Foundation GRIP Internship of April 2023.
@@ -47,3 +48,5 @@ http://localhost/BankByShivam/mainpage.php
 - On the `Transaction` page you can select whom to transfer the money on `Receiver` tab and the amount to be transferred on `Amount` tab.
 - Click `Send Money` to transfer the money or `Cancel Transaction` to cancel the transaction
 - On the Home page you can visit the `Transaction History` to view past transactions.
+
+## Screenshots
