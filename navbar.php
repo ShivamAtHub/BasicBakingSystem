@@ -1,7 +1,7 @@
 <!-- Creation of Navigation bar -->
 <nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark" data-bs-theme="dark">
   <div class="container-fluid">
-  <a class="navbar-brand" href="#">
+  <a class="navbar-brand" href="mainpage.php">
       <img src="./imgs/tsf.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top" >
       TSF Global Bank
     </a>
